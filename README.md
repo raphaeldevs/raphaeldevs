@@ -2,10 +2,7 @@
 
 **Web developer**
 
-- 🌱 I’m currently learning TypeScript and React
-- 📫 How to reach me: 
-  <a href="https://instagram.com/raphaelde.oliveira">![Instagram](https://img.shields.io/badge/-Instagram-blue?style=social&logo=instagram)</a>
-  <a href="https://telegram.me/raphaeldevs">![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram)</a>
+- 🌱 I’m currently learning TypeScript, ReactJS and NextJS
 - 😄 Fun fact: I was a school chess player and won a tournament at my school 🤷
-
+- 📚 I'm a student at Rocketseat since 2021
 ---
