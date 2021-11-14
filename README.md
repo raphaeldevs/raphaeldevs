@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
-  <a href="https://linkedin.com/in/raphaeldevs" target="blank">
+  <a href="https://linkedin.com/in/raphaeldevs" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="raphaeldevs"
@@ -20,7 +20,7 @@
 </div>
 
 <div>
-<a href="https://instagram.com/raphaelde.oliveira" target="blank">
+<a href="https://instagram.com/raphaelde.oliveira" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="raphaelde.oliveira"
@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <a href="https://discord.com/users/711665308120645685" target="blank">
+  <a href="https://discord.com/users/711665308120645685" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="raphaeldevs#0457"
