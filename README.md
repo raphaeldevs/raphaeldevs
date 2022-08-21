@@ -1,11 +1,9 @@
 # Hi 👋, I'm Rapha.
 > A passionate youngster developer from Brazil, Maranhão.
 
-- 🌱 I’m currently learning TypeScript, ReactJS and NodeJS 
+- 🌱 I’m currently learning TypeScript, ReactJS, NodeJS and Golang
 
 - 😄 Fun fact: I was a school chess player and won a tournament at my school 🤷 
-
-- 📚 I'm a student at Rocketseat since 2021
 
 <h3 align="left">Connect with me:</h3>
 <div>
