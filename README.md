@@ -1,5 +1,4 @@
 # Hi 👋, I'm Rapha.
-> A passionate youngster developer from Brazil, Maranhão.
 
 - 🌱 I’m currently learning TypeScript, ReactJS, NodeJS and Golang
 
